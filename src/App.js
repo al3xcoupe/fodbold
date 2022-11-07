@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import { Typography } from 'antd';
 
-const { Title, Paragraph, Text, Link } = Typography;
+const { Title} = Typography;
 
 function App() {
   return (
