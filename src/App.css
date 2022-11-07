@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.title{
+  font-size: 35px;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.titleFussball{
+  text-decoration: underline red;
+}
